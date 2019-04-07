@@ -1,4 +1,16 @@
-#### digital collages generated with a simple processing program
-![0](0.PNG)
-![1](1.PNG)
-![2](2.PNG)
+![](0.png)    
+
+
+![](1.png)    
+
+
+![](2.png)    
+
+
+![](3.png)    
+
+
+![](4.png)    
+
+
+![](5.png)

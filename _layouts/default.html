@@ -22,11 +22,13 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        <p>
-          <a href="/film_photography">photography</a>
+        <br>
+        <br>
+        <br>
+          <a href="/">work</a>
           <br>
-          <a href="/collage">collage</a>
-        </p>
+          <br>        
+          <a href="/about">about</a>
 
         {% if site.show_downloads %}
         <ul class="downloads">
@@ -44,7 +46,7 @@
       </section>
 
       <footer>
-        <p class="view"><a href="{{ site.github.repository_url }}">view the project on github <small>{{ site.github.repository_nwo }}</small></a></p>
+        <p class="view"><a target="_blank" href="{{ site.github.repository_url }}">view on github <small>{{ site.github.repository_nwo }}</small></a></p>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>

@@ -1,3 +1,19 @@
-[![0](28600024.JPG)](/film_photography)
+[![](no_exit.JPG)](/no_exit)
+no exit
 
-[![0](0.PNG)](/collage)
+[![](cyclops.png)](/de_renched)
+de renched 
+
+[![](collage.PNG)](/collage)
+digital collage
+
+[![](na.JPG)](/narrenschiff)
+ship of fools 
+
+<!-- mills
+
+untitled silkscreen prints
+
+non-entity 
+
+swarm music -->
