@@ -1,16 +1,22 @@
-![](0.png)    
+digital collages made with photoshop or processing
 
 
-![](1.png)    
+![](0.PNG)    
 
 
-![](2.png)    
+![](mina.png)
+
+
+![](copy.png)
+
+
+![](med3.png)    
+
+
+![](med4.png)    
 
 
 ![](3.png)    
 
 
-![](4.png)    
-
-
-![](5.png)
+![](1.jpg)    

@@ -1,19 +1,18 @@
 [![](no_exit.JPG)](/no_exit)
-no exit
 
-[![](cyclops.png)](/de_renched)
-de renched 
+[![](bot.png)](/bot)
 
 [![](collage.PNG)](/collage)
-digital collage
 
-[![](na.JPG)](/narrenschiff)
-ship of fools 
+[![](cyclops.png)](/de_renched)
+
+[![](nonentity.JPG)](/non_entity)
+
+[![](s.png)](/silkscreen)
+
+[![](cornwall.JPG)](/cornwall)
+
 
 <!-- mills
-
-untitled silkscreen prints
-
-non-entity 
 
 swarm music -->

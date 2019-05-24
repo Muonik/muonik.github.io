@@ -1,4 +1,4 @@
-capitalism is subsuming everything and we are desperately looking for an exit    
+35mm film photography. capitalism is subsuming everything and we are desperately looking for an exit.      
 
 
 

@@ -1,4 +1,6 @@
-i am interested in critical theory, mental illness, industrial music, and new media.         
+
+
+
 
 <!-- education  
 university of manchester, BSc computer science (human computer interaction), 2:1, 2015 - 2018  
