@@ -1,4 +1,0 @@
-silkscreen prints
-
-
-![](s.png)
