@@ -4,7 +4,7 @@
 
 body {
   background-image: url('nll700.png');
-  font-family: Verdana;
+  font-family: AppleGothic;
 }
 
 .nav {
@@ -32,6 +32,10 @@ img.sticky {
 	top: -20px;
 	width:1100px;
 	z-index: -1;
+}
+
+a {
+  color: Black;
 }
 
 .center {
