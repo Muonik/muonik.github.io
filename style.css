@@ -4,7 +4,7 @@
 
 body {
   background-image: url('nll700.png');
-  font-family: AppleGothic;
+  font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 }
 
 .nav {
